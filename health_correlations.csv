@@ -1,0 +1,13 @@
+correlation_id,parameter,location_id,detail,value
+1,PM2.5 Levels,\N,Mean PM2.5 concentration,32.2000
+2,PM2.5 Levels,\N,Mean PM2.5 concentration,30.0000
+3,Pollution Sources,\N,Proximity to major roads and traffic-related emissions,\N
+4,Pollution Sources,\N,Exposure to vapors dusts gases fumes mosquito coils and tobacco smoke,\N
+5,Pollution Sources,\N,Poor sanitation and overcrowding imply additional pollution from waste practices,\N
+6,Health Implications,\N,Higher rates of wheeze trouble breathing and nocturnal cough in Mukuru,\N
+7,Health Implications,\N,Increased risk for respiratory issues (Odds Ratio for "trouble breathing"),3.1800
+8,Health Implications,\N,Positive correlation between birth weight and lung function (FEV? and FVC); restricted spirometry linked to lower birth weight (OR),0.1100
+9,Vulnerable Populations,\N,Higher susceptibility due to developing lungs and compounded risks in preterm/low birth weight infants,\N
+10,Vulnerable Populations,\N,Mukuru residents face compounded risks from poverty pollution and limited healthcare access,\N
+11,Gaps/Contextual Notes,\N,No longitudinal data available; study is cross-sectional,\N
+12,Gaps/Contextual Notes,\N,Indirect inference from poor sanitation in Mukuru regarding waste-related pollution,\N
